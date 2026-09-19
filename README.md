@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PatrickPan
 - 👀 I’m interested in Blockchain and AI
 - 🌱 I’m currently learning ML with Graph
-- 💞️ I’m looking to collaborate on Research about GAI 
-- 📫 How to reach me lp2798@nyu.edu
+- 💞️ I’m looking to collaborate on Research about GAI low-level computer system, AI Infra
+- 📫 How to reach me lp29@illinois.edu
 - 😄 Pronouns: HE/HIM/HIS
 - ⚡ Fun fact: I like playing APEX
 
