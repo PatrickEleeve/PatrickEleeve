@@ -10,6 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/UIUC-MS_Financial_Engineering-13294B?style=flat-square&labelColor=E84A27" alt="UIUC MSFE" />
+  <img src="https://img.shields.io/badge/NYU_Shanghai-Computer_Science-57068C?style=flat-square&labelColor=330662" alt="NYU Shanghai Computer Science" />
   <img src="https://img.shields.io/badge/Open_to-Infra_%7C_QD_%7C_QR_%7C_QT-2c5364?style=flat-square" alt="Open to Infra, QD, QR, QT" />
   <a href="mailto:lp29@illinois.edu"><img src="https://img.shields.io/badge/lp29@illinois.edu-0f2027?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -130,7 +131,7 @@ I build systems where correctness has to be provable, or at least checkable: con
 
 <br/>
 
-UIUC 金融工程硕士在读，求职方向：**Infra / 量化开发（QD）/ 量化研究（QR）/ 量化交易（QT）**。
+UIUC 金融工程硕士在读，本科 NYU Shanghai 计算机科学，求职方向：**Infra / 量化开发（QD）/ 量化研究（QR）/ 量化交易（QT）**。
 
 关注需要可验证正确性的系统：共识与审计协议、形式化规约驱动的运行时、带严格风控的交易引擎。
 
